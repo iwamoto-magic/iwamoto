@@ -1,10 +1,10 @@
-# 1.Git 環境構築
+## 1.Git 環境構築
+
 Gitをダウンロードしよう
 GitHubのアカウントを作ろう
 SourceTreeをダウンロードしよう
 
-
-- 鍵生成
+> 鍵生成
 https://pajoca.com/sourcetree-error-ssh-sha-1/
 
 
