@@ -4,8 +4,8 @@ Gitをダウンロードしよう
 GitHubのアカウントを作ろう
 SourceTreeをダウンロードしよう
 
-> 鍵生成
-https://pajoca.com/sourcetree-error-ssh-sha-1/
+> 鍵生成 
+- https://pajoca.com/sourcetree-error-ssh-sha-1/
 
 
 # プッシュする準備
