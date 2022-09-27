@@ -1,17 +1,18 @@
-# Git 環境構築
+# GitをSourceTreeで使用する
 
-Gitをダウンロードしよう
-GitHubのアカウントを作ろう
-SourceTreeをダウンロードしよう
+## 環境構築
+Gitのインストール  
+https://backlog.com/ja/git-tutorial/intro/05/
 
-## 鍵生成  
+SourceTreeインストール  
+https://sukkiri.jp/technologies/devtools/git/sourcetree_win.html
+
+GitHubアカウントを作成
+https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d
+
+##  SSHキーの作成と登録  
+https://www.pc-koubou.jp/magazine/28571
+※ 鍵生成の手順のみ以下で行うこと  
 https://pajoca.com/sourcetree-error-ssh-sha-1/
 
-
-##  プッシュする準備
-
-##  2.使い方
-SourceTreeでリポジトリを作成
-
-## 3.git を使ってみよう
-
+##  使い方
